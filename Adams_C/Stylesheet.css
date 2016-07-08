@@ -1,0 +1,49 @@
+      
+            a:link{ color: #4dfefe; }
+            a:visited { color: #00ecec;}
+            a:hover { color: #ffff66;}
+            
+            h3 {
+                text-decoration:overline underline;
+                text-shadow: 10px 10px 2px #006080;
+                color:#33d6ff;
+                font-size: 72px;
+            }
+             h2 {
+                text-shadow: 2.5px 2.5px 1px #990099;
+                color:#ff00ff;
+                font-size: 36px;
+	     
+            }
+	     body {
+	background-color: #666699;
+}
+
+.roundborder{
+	background-color: white;
+	padding: 20px; 
+	margin-top: 50px;
+	border: 5px solid #666666;
+	background-clip: padding-box;
+	border-radius: 20px; /* Opera 10.5, IE9, Saf5, Chrome, FF4 */
+	-moz-border-radius: 20px; /* FF1+ */
+	-webkit-border-radius: 20px; /* Saf3-4, iOS 1+, Android 1.5+ */
+}
+
+
+.roundborder_li{
+	background-color: #ccccff;
+	padding: 20px; 
+	margin-top: 50px;
+	border: 5px solid #595959;
+	background-clip: padding-box;
+	border-radius: 20px; /* Opera 10.5, IE9, Saf5, Chrome, FF4 */
+	-moz-border-radius: 20px; /* FF1+ */
+	-webkit-border-radius: 20px; /* Saf3-4, iOS 1+, Android 1.5+ */
+}
+
+.roundborder p { 
+	color: black;
+	text-indent: 0px; 
+	font-size: 18px;
+}  
